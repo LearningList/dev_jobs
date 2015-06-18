@@ -48,4 +48,6 @@
 
 **Salary**: Commensurate with experience. Opportunity for advancement as the company grows.
 
-**Contact**: Send resume and cover letter highlighting relevant work experience and qualifications for this position, as well as references to Jackie Lain, [JackieL@learninglist.com](mailto:jackiel@learninglist.com). Hiring decision will be made in *early* July 2015.
+**Contact**: Send resume and cover letter highlighting relevant work experience and qualifications for this position, as well as references to Jackie Lain, [JackieL@learninglist.com](mailto:jackiel@learninglist.com). Hiring decision will be made in *early* July 2015. 
+---
+Download PDF job description [here](Sr_Web_Developer_Operations_Lead_2015.pdf).
