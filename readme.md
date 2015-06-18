@@ -29,18 +29,22 @@
 
 **The Technology Core**
 *  Ruby and Ruby on Rails, Web application development
+
 **Front end**
 *  Javascript (JQuery, CoffeeScript), HTML (HAML), CSS (SASS)
+
 **Database**
 *  MongoDB
+
 **Middleware**
 *  Elasticsearch, Sidekiq, Redis
+
 **Ops/Deployment**
 *  Git, Heroku
 
 **Disclaimer**: The above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. They are not to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified. All personnel may be required to perform duties outside of their normal responsibilities from time to time, as needed.
 
-**Education Qualifications**: Bachelor’s degree, Computer Science preferred
+**Education Qualifications**: Bachelors degree, Computer Science preferred
 
 **Salary**: Commensurate with experience. Opportunity for advancement as the company grows.
 
