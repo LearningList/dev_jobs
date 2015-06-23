@@ -10,7 +10,7 @@
 *  3+ years production Rails work
 *  Strong Ruby knowledge
 *  Experience working with MongoDB and/or NoSQL databases
-*  Experience with Ruby / Rails performance optimization and complex
+*  Experience with Ruby / Rails performance optimization and complex refactoring
 *  5+ years development with Javascript 
 *  Able to work in a fast-paced development environment
 
