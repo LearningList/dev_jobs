@@ -4,7 +4,7 @@
 
 [Learning List, Inc.](https://learninglist.com/), is an Austin, Texas-based education start-up. We are the industry-leading instructional materials review service for schools and districts. Like Consumer Reports® for textbooks and online materials, Learning List is a subscription-based service that provides independent reviews to help educators choose and use materials more effectively. More than 100 districts serving over a million students in five states subscribe to Learning List. 
 
-**Job summary**: Learning List is seeking a passionate and focused senior developer who will lead the full spectrum of the software development lifecycle. Candidates must have significant experience: architecting applications; planning and developing new features and functionality; optimizing performance; setting up multi-tenency databases; working with full text search and asynchronous workload; and, scaling Rails applications into enterprise services to accommodate fast-paced growth. The senior developer must be a "team player" with a strong work ethic.
+**Job summary**: Learning List is seeking a passionate and focused developer who will lead the full spectrum of the software development lifecycle. Candidates must have significant experience: architecting applications; planning and developing new features and functionality; optimizing performance; setting up multi-tenency databases; working with full text search and asynchronous workload; and, scaling Rails applications into enterprise services to accommodate fast-paced growth. The developer must be a "team player" with a strong work ethic.
 
 **Qualifications**
 *  3+ years production Rails work
