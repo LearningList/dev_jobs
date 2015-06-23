@@ -1,4 +1,4 @@
-# Senior Web Developer/Operations Lead
+# Web Developer/Operations Lead
 
 ## Job Description
 
